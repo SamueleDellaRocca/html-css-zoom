@@ -87,14 +87,24 @@ footer i {
 
 .parte-sinistra {
     display: flex;
+    align-items: center;
 }
 
 .mic {
     margin: 0 10px;
 }
 
+.fa-angle-up {
+    font-size: 1rem;
+}
+
 .parte-centrale {
     display: flex;
+    align-items: center;
+}
+
+.fa-share-from-square {
+    color: green;
 }
 
 .parte-destra {
